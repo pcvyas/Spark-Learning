@@ -1,10 +1,6 @@
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 
-/**
- * Just fooling around with Scala, followed an online tutorial
-   that showed me how to  do basic data manipulation with Spark
- */
 object ScalaApp {
 
   def main(args: Array[String]) {
